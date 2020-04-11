@@ -1,0 +1,8 @@
+install.packages("mosaic")
+install.packages("sciplot")
+install.packages("plyr")
+install.packages("mosaicData")
+install.packages("gtools")
+install.packages("car")
+install.packages("multcomp")
+install.packages("emmeans")
